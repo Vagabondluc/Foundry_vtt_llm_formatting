@@ -5,7 +5,7 @@ Formatting guide for Foundry Vtt using LLM, this is a compendium module for foun
 
 The specific URL for the module.json file of the "Foundry_vtt_llm_formatting" compendium module is:
 ```
-https://raw.githubusercontent.com/Vagabondluc/Foundry_vtt_llm_formatting/refs/heads/main/modules/journal-formatting-system-for-large-language-models/module.json
+[https://raw.githubusercontent.com/Vagabondluc/Foundry_vtt_llm_formatting/refs/heads/main/modules/journal-formatting-system-for-large-language-models/module.json](https://github.com/Vagabondluc/Foundry_vtt_llm_formatting/releases/download/v1.0.0/module.json)
 ```
 ## Empowering Foundry VTT Journal Styling with Large Language Models
 
