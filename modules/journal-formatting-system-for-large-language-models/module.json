@@ -1,0 +1,31 @@
+{
+  "id": "journal-formatting-system-for-large-language-models",
+  "title": "Journal Formatting System For Large Language Models",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "PeeHell",
+      "email": "vagabond_luc@hotmail.com",
+      "discord": "vagabondluc#8425",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "journal-formatting-system",
+      "label": "Journal Formatting System",
+      "path": "packs/journal-formatting-system",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
