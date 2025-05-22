@@ -1,3 +1,5 @@
+![Foundry VTT Screenshot](https://raw.githubusercontent.com/Vagabondluc/Foundry_vtt_llm_formatting/refs/heads/main/2025-05-22%2005_01_29-Foundry%20Virtual%20Tabletop.jpg)
+
 # Foundry_vtt_llm_formatting
 Formatting guide for Foundry Vtt using LLM, this is a compendium module for foundry. 
 
