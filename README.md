@@ -4,8 +4,9 @@
 Formatting guide for Foundry Vtt using LLM, this is a compendium module for foundry. 
 
 The specific URL for the module.json file of the "Foundry_vtt_llm_formatting" compendium module is:
+```
 https://raw.githubusercontent.com/Vagabondluc/Foundry_vtt_llm_formatting/refs/heads/main/modules/journal-formatting-system-for-large-language-models/module.json
-
+```
 ## Empowering Foundry VTT Journal Styling with Large Language Models
 
 This guide outlines a workflow for utilizing Large Language Models (LLMs) to automatically generate professionally styled journal entries within Foundry Virtual Tabletop. By providing the LLM with a specialized knowledge base, users can transform raw text into visually engaging content without needing technical HTML or CSS expertise.
